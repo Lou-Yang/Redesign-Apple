@@ -3,26 +3,19 @@
 }
 body {
 	background-color: #aaa;
+	margin: 50px;
 }
 header {
+	box-shadow: 0 3px 30px 15px #000000;
 	padding: 10px;
-	height: 10.1em;
-	position: relative;
 }
 section {
 	box-shadow: 0 3px 30px 15px #000000;
-	position: absolute;
-	left: 325px;
-	top: -2px;
 }
 footer {
 	box-shadow: 0 3px 30px 15px #000000;
 	text-align: center;
-	padding-bottom: 1px;
-	margin-top: 10em;
-	clear: both;
 }
-
 a:link {
     color: #423461;
 	text-decoration: none;
