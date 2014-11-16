@@ -5,6 +5,10 @@ body {
 	background-color: #aaa;
 	margin: 50px;
 }
+img {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
 header {
 	box-shadow: 0 3px 30px 15px #000000;
 	padding: 10px;
