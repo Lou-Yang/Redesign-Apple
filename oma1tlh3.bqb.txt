@@ -1,0 +1,17 @@
+﻿This is my commit to the two files.
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   img/Thumbs.db
+#	new file:   img/iphone_6.png
+#	new file:   img/iwatch.jpg
+#	new file:   img/logo.gif
+#	new file:   img/logo.png
+#	new file:   img/u2.png
+#	new file:   index.html
+#
+
