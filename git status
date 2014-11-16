@@ -1,0 +1,14 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e9f749a..2a1e7ee 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -44,7 +44,7 @@[m
+ 			&nbsp;		[m
+ 			<footer>[m
+ 			<p>Shop the <a href="http://store.apple.com/us">Apple Online Store</a> (1-800-MY-APPLE), visit an <a href="http://www.apple.com/retail/">Apple Retail Store</a>, or find a <a href="http://www.apple.com/buy/">reseller.</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="http://www.apple.com/about/">Apple Info</a> | <a href="http://www.apple.com/sitemap/">Site Map</a> | <a href="http://www.apple.com/hotnews/">Hot News</a> | <a href="http://www.apple.com/rss/">RSS Feeds</a> | <a href="http://www.apple.com/contact/">Contact Us</a></p>[m
+[31m-			<p>Copyright © 2014 Apple Inc. All rights reserved. <a href="http://www.apple.com/legal/internet-services/terms/site.html">Terms of Use</a> | <a href="http://www.apple.com/privacy/privacy-policy/">Updated Privacy Policy</a></p>[m
+[32m+[m			[32m<p>Copyright &copy; 2014 Apple Inc. All rights reserved. <a href="http://www.apple.com/legal/internet-services/terms/site.html">Terms of Use</a> | <a href="http://www.apple.com/privacy/privacy-policy/">Updated Privacy Policy</a></p>[m
+ 			</footer>[m
+ 		</body>[m
+ </html>		[m
+\ No newline at end of file[m
