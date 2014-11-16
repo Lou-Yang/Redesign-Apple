@@ -2,50 +2,18 @@
     box-sizing: border-box;
 }
 body {
-	background-image: url("images/background-space.jpg");
-	background-repeat: repeat;
+	background-color: #aaa;
 }
 header {
 	padding: 10px;
 	height: 10.1em;
 	position: relative;
 }
-
-#sub-head {
-	position: fixed;
-	left: 300px;
-	top: 35px;
-}
-#sub-header {
+section {
 	box-shadow: 0 3px 30px 15px #000000;
 	position: absolute;
 	left: 325px;
 	top: -2px;
-}
-#maincontent {
-	background-color: hsla(0,100%,100%,.5);
-	box-shadow: 0 3px 30px 15px #000000;
-	padding: 10px;
-	margin-bottom: 10px;
-	width: 35%;
-	float: left;
-	overflow: hidden;
-}
-#middle {
-	background-color: hsla(0,100%,100%,.5);
-	box-shadow: 0 3px 30px 15px #000000;
-	padding: 10px;
-	margin-top: 250px;
-	margin-left: 24px;
-	float: left;
-	overflow: hidden;
-}
-#side-bar {
-	background-color: hsla(0,100%,100%,.5);
-	box-shadow: 0 3px 30px 15px #000000;
-	padding: 10px;
-	width: 350px;
-	float: right;
 }
 footer {
 	box-shadow: 0 3px 30px 15px #000000;
@@ -56,7 +24,7 @@ footer {
 }
 
 a:link {
-    color: #FD05A8;
+    color: #423461;
 	text-decoration: none;
 }
 a:visited {
